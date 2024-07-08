@@ -66,7 +66,7 @@ Since i integrated some of my project into my website i'll i mention most of tec
 
 ### How To Use
 
-Yes, you can fork this repo. Please give me proper credit by linking back to [anaflous.com](https://anaflous.com). Thanks!
+Yes, you can fork this repo. Please give me proper credit by linking back to [https://portfolio-mohit-five.vercel.app/]. Thanks!
 
 ## 🛠 Installation & Set Up
 
