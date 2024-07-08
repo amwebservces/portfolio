@@ -198,7 +198,7 @@ the following endpoint will return a json object contains "quote" and "author", 
 
 MIT License
 
-Copyright (c) [2022] [Abdellatif Anaflous]
+Copyright (c) [2022] [Mohit Vishwakarma]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -224,8 +224,8 @@ SOFTWARE.
 
 ## Author Info
 
-- Linkedin - [@abdellatif-anaflous](https://www.linkedin.com/in/abdellatif-anaflous/)
-- Website - [Abdellatif Anaflous](https://anaflous.com)
+- Linkedin - [@mohit-vishwakarma]([(https://www.linkedin.com/in/mohit-vishwakarma-314164208]))
+- Website - [Mohit Vishwakarma]([https://anaflous.com]([https://portfolio-mohit-five.vercel.app/)])
 
 [Back To The Top](#description) :
 
